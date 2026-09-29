@@ -1,6 +1,6 @@
 # Torneos eSports - Kotlin
 
-Aplicación visual nativa para Android creada desde cero con Kotlin y Jetpack Compose.
+Aplicación visual nativa para Android creada desde cero con Kotlin.
 
 ## Incluye
 
